@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "masonrystack",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/lukepistrol/MasonryStack",
+      "state" : {
+        "revision" : "d0901713a72febe9bee7b8db5af6fb5d63362ab8",
+        "version" : "0.1.0"
+      }
+    },
+    {
+      "identity" : "pagertabstripview",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/xmartlabs/PagerTabStripView",
+      "state" : {
+        "revision" : "39ec00d2577adf75d82d1c7023c56950b96d2298",
+        "version" : "4.0.0"
+      }
+    }
+  ],
+  "version" : 2
+}
